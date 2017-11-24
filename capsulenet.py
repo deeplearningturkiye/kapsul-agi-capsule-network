@@ -10,19 +10,7 @@ Kaynak                      :https://arxiv.org/pdf/1710.09829.pdf (Dynamic Routi
 Veriseti                    :MNIST (http://yann.lecun.com/exdb/mnist/)
 Algoritma                   :Kapsül Ağları (Capsule Networks-CapsNet)
 
-Kullanım:
-       python CapsNet.py
-       python CapsNet.py --epochs 50
-       python CapsNet.py --epochs 50 --num_routing 3
-       ... ...
-
-Sonuç:
-       Validasyon Başarımı > 20 epoch sonrasında %99.5.
-       50 epoch sonrasında %99.66’ya yükselmektedir.
 """
-import timeit
-start = timeit.default_timer()
-
 import numpy as np
 from keras import layers, models, optimizers
 from keras import backend as K
@@ -229,6 +217,3 @@ if __name__ == "__main__":
             print('No weights are provided. Will test using random initialized weights.')
         test(model=eval_model, data=(x_test, y_test))
 
-
-stop = timeit.default_timer()
-print (stop - start)
