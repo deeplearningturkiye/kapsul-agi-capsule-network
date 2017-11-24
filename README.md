@@ -27,8 +27,8 @@ ile çalıştırın.
 
     
 ## Validasyon Başarımı
-* 1. epoch sonrasında %98.5'e
-* 20. epoch sonrasında %99.5'e 
-* 50. epoch sonrasında %99.66’ya 
+* 1 epoch sonrasında %98.5'e
+* 20 epoch sonrasında %99.5'e 
+* 50 epoch sonrasında %99.66’ya 
 
 yükselmektedir.
