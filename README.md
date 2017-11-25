@@ -36,4 +36,5 @@ yükselmektedir.
 
 ## Kaynaklar
 * https://arxiv.org/pdf/1710.09829.pdf (Dynamic Routing Between Capsules)
-* https://github.com/XifengGuo/CapsNet-Keras* http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/yapay-zekada-buyuk-yenilik-kapsul-aglari-capsule-networks
+* https://github.com/XifengGuo/CapsNet-Keras
+* http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/yapay-zekada-buyuk-yenilik-kapsul-aglari-capsule-networks
