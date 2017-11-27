@@ -27,12 +27,24 @@ ile klasörü açın.
 ile çalıştırın.
 
     
-## Validasyon Başarımı
-* 1 epoch sonrasında %98.5'e
-* 20 epoch sonrasında %99.5'e 
-* 50 epoch sonrasında %99.66’ya 
+## Validasyon Başarımı (Sadece Artış Gösterenler)
 
-yükselmektedir.
+| Epoch         | Validasyon Doğruluk Oranı|
+| ------------- |:-----------------------: |
+|        1      | 98.58                    |
+|        2      | 98.96                    |
+|        3      | 99.31                    |
+|        6      | 99.38                    |
+|        10     | 99.41                    |
+|        11     | 99.50                    |
+|        12     | 99.56                    |
+|        16     | 99.63                    |
+|        34     | 99.66                    |
+
+## Test Başarımı 
+
+* **10 bin test verisi** ile test işlemi gerçekleştirildiğinde **%99.61 doğruluk oranı** elde edilmiştir. 
+* Model **%0.39 hata** ile çalışmaktadır.
 
 ## Kaynaklar
 * https://arxiv.org/pdf/1710.09829.pdf (Dynamic Routing Between Capsules)
