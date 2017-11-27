@@ -45,6 +45,13 @@ ile çalıştırın.
 * **10 bin test verisi** ile test işlemi gerçekleştirildiğinde **%99.61 doğruluk oranı** elde edilmiştir. 
 * Model **%0.39 hata** ile çalışmaktadır.
 
+## 50 Epoch Çalışma Süresi
+
+| Süre          | Bilgisayar Konfigürasyonu                                            |
+| ------------- |:-----------------------:                                             |
+|  68 saat      | İşlemci: Intel(R) Core (TM) i5-337U CPU @ 1.8 Ghz 1.8 Ghz, RAM: 4 GB |
+
+
 ## Kaynaklar
 * https://arxiv.org/pdf/1710.09829.pdf (Dynamic Routing Between Capsules)
 * https://github.com/XifengGuo/CapsNet-Keras
