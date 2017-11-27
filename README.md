@@ -12,10 +12,9 @@ Geçerli sürümü TensorFlow’da hazırlanmıştır. Keras sürümünden farkl
 
 ## Adım Adım Kullanım
 
-Terminali 
+Terminali açıp
 
 ```git clone https://github.com/deeplearningturkiye/kapsul-agi-capsule-network.git```
-https://github.com/XifengGuo/CapsNet-Keras
 ile repoyu bilgisayarınıza indirin.
 
 ```cd kapsul-agi-capsule-network```
