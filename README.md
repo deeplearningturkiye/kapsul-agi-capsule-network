@@ -27,7 +27,7 @@ ile çalıştırın.
     
 ## Test Başarımı 
 
-* **10 bin test verisi** ile test işlemi gerçekleştirildiğinde **MNIST** veriseti için **%99.61 doğruluk oranı** ve **FASHION MNIST** veriseti için **%99.22 doğruluk oranı** elde edilmiştir. 
+* **10 bin test verisi** ile test işlemi gerçekleştirildiğinde **MNIST** veriseti için **%99.61 doğruluk oranı** ve **FASHION MNIST** veriseti için **%92.22 doğruluk oranı** elde edilmiştir. 
 
 ## MNIST için 50 Epoch Çalışma Süresi
 
