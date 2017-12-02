@@ -24,28 +24,12 @@ ile klasörü açın.
 ```python capsulenet.py```
 
 ile çalıştırın.
-
     
-## Validasyon Başarımı (Sadece Artış Gösterenler)
-
-| Epoch         | Validasyon Doğruluk Oranı|
-| ------------- |:-----------------------: |
-|        1      | 98.58                    |
-|        2      | 98.96                    |
-|        3      | 99.31                    |
-|        6      | 99.38                    |
-|        10     | 99.41                    |
-|        11     | 99.50                    |
-|        12     | 99.56                    |
-|        16     | 99.63                    |
-|        34     | 99.66                    |
-
 ## Test Başarımı 
 
-* **10 bin test verisi** ile test işlemi gerçekleştirildiğinde **%99.61 doğruluk oranı** elde edilmiştir. 
-* Model **%0.39 hata** ile çalışmaktadır.
+* **10 bin test verisi** ile test işlemi gerçekleştirildiğinde **MNIST** veriseti için **%99.61 doğruluk oranı** ve **FASHION MNIST** veriseti için **%99.22 doğruluk oranı** elde edilmiştir. 
 
-## 50 Epoch Çalışma Süresi
+## MNIST için 50 Epoch Çalışma Süresi
 
 | Süre          | Bilgisayar Konfigürasyonu                                            |
 | ------------- |:-----------------------:                                             |
