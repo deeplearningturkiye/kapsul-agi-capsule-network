@@ -31,10 +31,11 @@ ile çalıştırın.
 
 ## MNIST için 50 Epoch Çalışma Süresi
 
-| Süre          | Bilgisayar Konfigürasyonu                                            |
-| ------------- |:-----------------------:                                             |
-|  68 saat      | İşlemci: Intel(R) Core (TM) i5-337U CPU @ 1.8 Ghz 1.8 Ghz, RAM: 4 GB |
-
+| Süre             | GPU/CPU | Bilgisayar Konfigürasyonu                           
+| ---------------- | --------|---------------------------------------------------
+|  68 saat         | CPU     | İşlemci: Intel i5-337U CPU @ 1.8 Ghz 1.8 Ghz, RAM: 4 GB                                                                                
+|  7 saat          | CPU     | İşlemci: Intel i7-7700 CPU @ 3.6 Ghz x 8,     RAM: 16 GB 
+|  1.5 saat        | GPU     | Ekran Kartı: NVIDIA GTX 1080, İşlemci: Intel i7-770 CPU @ 3.6 Ghz x 8 RAM: 16 GB 
 
 ## Kaynaklar
 * https://arxiv.org/pdf/1710.09829.pdf (Dynamic Routing Between Capsules)
